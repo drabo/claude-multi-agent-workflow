@@ -1,0 +1,7 @@
+{
+  "name": "my-code-tools",
+  "owner": { "name": "My Name Here" },
+  "plugins": [
+    { "name": "code-quality", "source": "./", "description": "Code review and tests execution" }
+  ]
+}
